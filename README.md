@@ -1,1 +1,1 @@
-# ai-first-approaches
+# ai-first-approaches[prompts.md](../BlackboxBook/prompts.md)

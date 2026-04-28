@@ -1,0 +1,6 @@
+[submodule "otherRepos/ai-first-workspace-template"]
+	path = otherRepos/ai-first-workspace-template
+	url = git@github.com:VsevolodUstinov/ai-first-workspace-template.git
+[submodule "otherRepos/BlackboxBook"]
+	path = otherRepos/BlackboxBook
+	url = git@github.com:DenZNK/BlackboxBook.git
